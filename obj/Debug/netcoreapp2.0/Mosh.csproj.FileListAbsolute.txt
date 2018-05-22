@@ -1,0 +1,11 @@
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/bin/Debug/netcoreapp2.0/Mosh.deps.json
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/bin/Debug/netcoreapp2.0/Mosh.runtimeconfig.json
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/bin/Debug/netcoreapp2.0/Mosh.runtimeconfig.dev.json
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/bin/Debug/netcoreapp2.0/Mosh.dll
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/bin/Debug/netcoreapp2.0/Mosh.pdb
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/obj/Debug/netcoreapp2.0/Mosh.csprojAssemblyReference.cache
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/obj/Debug/netcoreapp2.0/Mosh.csproj.CoreCompileInputs.cache
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/obj/Debug/netcoreapp2.0/Mosh.AssemblyInfoInputs.cache
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/obj/Debug/netcoreapp2.0/Mosh.AssemblyInfo.cs
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/obj/Debug/netcoreapp2.0/Mosh.dll
+/Users/jennypichardo/Desktop/visProjects/edx/Mosh/obj/Debug/netcoreapp2.0/Mosh.pdb
